@@ -2,8 +2,6 @@
 
 An interactive **Power BI dashboard** for analyzing retail/e-commerce sales performance — built on a star-schema data model with fact and dimension tables covering transactions, customers, products, stores, and time.
 
-![Dashboard Preview](template.png)
-
 ---
 
 ## 📌 Overview
